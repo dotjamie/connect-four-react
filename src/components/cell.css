@@ -1,0 +1,30 @@
+.cell {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  margin: 5px;
+  border: 1px solid #fff;
+  cursor: pointer;
+  user-select: none;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.red_hover{
+  background-color: #df432d;
+  opacity: .4;
+}
+.black_hover{
+  background-color: #000;
+  opacity: .4;
+}
+
+.red {
+  background-color: #df432d;
+  border: 1px solid #df432d;
+}
+
+.black {
+  background-color: #000;
+  border: 1px solid #000;
+}
