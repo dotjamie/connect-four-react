@@ -1,3 +1,7 @@
+## This project is a basic one-player Connect Four game
+
+It'd be cool to see different ways to build this whether it's different React or JS approaches or another language - I'd be happy to add to the project if you are up for it!   
+
 1) Create a new folder on your local system (ex: `mkdir new-folder-name` in terminal)
 
 2) `cd new-folder-name` in terminal
